@@ -46,7 +46,7 @@
             this.sCountry = new System.Windows.Forms.ComboBox();
             this.vSalary = new System.Windows.Forms.TextBox();
             this.iPostalCode = new System.Windows.Forms.TextBox();
-            this.vAddress = new System.Windows.Forms.TextBox();
+            this.vAddress = new System.Windos.Forms.TextBox();
             this.iContactNum = new System.Windows.Forms.TextBox();
             this.vNRIC = new System.Windows.Forms.TextBox();
             this.sLastName = new System.Windows.Forms.TextBox();
@@ -165,7 +165,7 @@
             this.button4.Location = new System.Drawing.Point(1277, 123);
             this.button4.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(167, 52);
+            this.button4.Size = new System.Drawing.Size(167, 51);
             this.button4.TabIndex = 38;
             this.button4.Text = "DELETE";
             this.button4.UseVisualStyleBackColor = true;
